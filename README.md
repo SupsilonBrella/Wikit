@@ -1,2 +1,2 @@
 # WikitPageCrawler
-a Wikidot page crawler used by Wikit.
+Simple Wikidot page crawler used by Wikit. 
